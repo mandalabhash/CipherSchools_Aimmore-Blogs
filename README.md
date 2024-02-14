@@ -18,14 +18,27 @@ Follow these simple steps to explore the AimMore Blogs project:
    ```
    npm install
    ```
+   or
+   ```
+   npm i
+   ```
+   
+   Navigate to the `backend` directory and run the following command to install the required dependencies:
+   ```
+   npm install
+   ```
+   or
+   ```
+   npm i
+   ```
 
-3. **Configure MongoDB:**
+4. **Configure MongoDB:**
    In the `backend` directory, update the MongoDB connection string in `line 22` with your database information:
    ```javascript
    mongoose.connect('<your-mongodb-string-code>');
    ```
 
-4. **Start the Backend Server:**
+5. **Start the Backend Server:**
    Run the following command in the `backend` directory to start the backend server:
    ```
    npm run start
@@ -35,7 +48,7 @@ Follow these simple steps to explore the AimMore Blogs project:
    npm run dev
    ```
 
-5. **Launch the Blog App:**
+6. **Launch the Blog App:**
    Run the following command in the `aimmore-blogs` directory to start the blog application on localhost:
    ```
    npm run start
@@ -43,7 +56,7 @@ Follow these simple steps to explore the AimMore Blogs project:
 
    Ensure you have Node.js installed with a version greater than or equal to 20.0.0 LTS.
 
-6. **Explore the Blog Website:**
+7. **Explore the Blog Website:**
    Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to explore the AimMore Blogs website.
 
 ## Screenshots
