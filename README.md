@@ -33,9 +33,14 @@ Follow these simple steps to explore the AimMore Blogs project:
    ```
 
 4. **Configure MongoDB:**
-   In the `backend` directory, update the MongoDB connection string in `line 22` with your database information:
+   In the `backend` directory, update the MongoDB connection string in `line 22` of `index.js` with your database information:
    ```javascript
    mongoose.connect('<your-mongodb-string-code>');
+   ```
+   for example:
+    ```javascript
+   mongoose.connect('mongodb+srv://<username>:<password>@cluster0.yaw8qsy.mongodb.net/')
+
    ```
 
 5. **Start the Backend Server:**
