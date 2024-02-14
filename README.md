@@ -64,7 +64,7 @@ Only the Actual Author the Blog can edit his/her blog.
 
 ### 4. Login and Register Account Pages
 ![Login Page](./media/login.jpg)
-![Registration Page](./media/register.jpg.jpg)
+![Registration Page](./media/register.jpg)
 
 
 ## Disclaimer
