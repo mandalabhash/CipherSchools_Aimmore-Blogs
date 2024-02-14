@@ -19,7 +19,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use('/uploads', express.static(__dirname + '/uploads'));
 
-mongoose.connect('mongodb+srv://aimmore01:AimMore2003@cluster0.yaw8qsy.mongodb.net/')
+mongoose.connect('')  //enter your mongodb string within the quotes here!
   .then(() => {
     console.log('Connected to MongoDB');
   })
