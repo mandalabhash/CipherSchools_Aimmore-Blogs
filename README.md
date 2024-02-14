@@ -71,7 +71,9 @@ Follow these simple steps to explore the AimMore Blogs project:
 
 ### 2. Blog Page
 ![Blog Page](./media/authors-blog.jpg)
+
 Only the Actual Author the Blog can edit his/her blog.
+
 ![Blog Page](./media/non-author-blog.jpg)
 
 ### 3. Blog Creation Page
