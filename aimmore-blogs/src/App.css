@@ -5,11 +5,13 @@ a{
     cursor: pointer;
 }
 body{
-    background:  linear-gradient(to bottom left, #080a0d 10%, #624b53 100%);
-    color: #FFF;
-    width: 100vw;
+    background: linear-gradient(to right, #aeaeae 42%, #626262 100%);
+    color: #0a0a0a;
+
     height: 100vh;
-    overflow: auto;
+
+    padding: 0;
+    margin: 0;
 
 }
 img{
@@ -18,7 +20,10 @@ img{
 main{
     padding: 10px;
     max-width: 960px;
-    margin: 0 auto;
+    margin: 20px auto;
+    height: calc(100% - 40px);
+    background: #e1e1e1;
+    overflow-y: scroll;
 }
 header{
     display:flex;
