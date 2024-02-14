@@ -2,7 +2,7 @@
 
 # AimMore Blogs
 
-Welcome to AimMore Blogs, a stylish and feature-rich blog website developed with React and Node.js frameworks. This project is designed for educational and examination evaluation purposes only and should not be cloned or used for commercial purposes.
+Welcome to AimMore Blogs, a blog website developed with React and Node.js frameworks. This project is designed for educational and examination evaluation purposes only and should not be cloned or used for commercial purposes.
 
 ## Getting Started
 
